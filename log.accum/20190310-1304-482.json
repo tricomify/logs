@@ -1,0 +1,26 @@
+{
+  "header": {
+    "protoclVersion": {
+      "protocolVersion": "0.0.2"
+    }
+  },
+  "body": {
+    "rx_obcTime": "380133",
+    "rx_recvCnt": "34",
+    "rx_gpsDate": "100319",
+    "rx_gpsTime": "40456",
+    "rx_lat": 35.705596,
+    "rx_long": 139.757248,
+    "rx_alt": "19",
+    "rx_temp": "23.25",
+    "rx_airP": "101625",
+    "rx_bSize": "34",
+    "tx_id": "23",
+    "tx_cnt": "34",
+    "payload": 1,
+    "tx_gpsTime": "40446",
+    "tx_lat": 35.705632,
+    "tx_long": 139.757392,
+    "tx_alt": 17
+  }
+}
